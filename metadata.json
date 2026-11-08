@@ -1,0 +1,6 @@
+{
+  "name": "MaintenX - Equipment & Preventive Maintenance CMMS",
+  "description": "Industrial-grade equipment, asset, and preventive maintenance management system. Maintain Better. Downtime Less.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

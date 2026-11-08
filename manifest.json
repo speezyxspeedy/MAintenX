@@ -1,0 +1,17 @@
+{
+  "short_name": "MaintenX",
+  "name": "MaintenX - Equipment & Preventive Maintenance CMMS",
+  "description": "Equipment, Asset & Preventive Maintenance Management System. Maintain Better. Downtime Less.",
+  "icons": [
+    {
+      "src": "/assets/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "display": "standalone",
+  "orientation": "any"
+}
